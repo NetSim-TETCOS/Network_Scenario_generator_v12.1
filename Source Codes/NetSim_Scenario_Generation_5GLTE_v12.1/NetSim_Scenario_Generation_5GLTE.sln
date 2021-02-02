@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSim_Scenario_Generation_5GLTE", "NetSim_Scenario_Generation_5GLTE.csproj", "{27151426-3DD5-43B8-B7ED-049A687D659E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27151426-3DD5-43B8-B7ED-049A687D659E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27151426-3DD5-43B8-B7ED-049A687D659E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27151426-3DD5-43B8-B7ED-049A687D659E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27151426-3DD5-43B8-B7ED-049A687D659E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA32F91-9A61-402B-BB80-DCE502A08771}
+	EndGlobalSection
+EndGlobal

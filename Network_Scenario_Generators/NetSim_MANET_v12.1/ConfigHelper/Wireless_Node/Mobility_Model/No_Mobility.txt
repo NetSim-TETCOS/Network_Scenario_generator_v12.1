@@ -1,0 +1,3 @@
+<POS_3D X_OR_LON="{0}" Y_OR_LAT="{1}" Z="0">
+  <MOBILITY MODEL="NO_MOBILITY"/>
+</POS_3D>

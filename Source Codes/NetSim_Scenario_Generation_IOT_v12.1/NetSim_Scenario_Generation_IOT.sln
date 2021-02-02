@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSim_Scenario_Generation_IOT", "NetSim_Scenario_Generation_IOT.csproj", "{C3A272F5-CE6D-42BB-9A96-FEF0DC8295CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A272F5-CE6D-42BB-9A96-FEF0DC8295CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A272F5-CE6D-42BB-9A96-FEF0DC8295CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A272F5-CE6D-42BB-9A96-FEF0DC8295CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A272F5-CE6D-42BB-9A96-FEF0DC8295CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5521CA-8ADF-4FC0-94A2-2F5B7677D8BA}
+	EndGlobalSection
+EndGlobal

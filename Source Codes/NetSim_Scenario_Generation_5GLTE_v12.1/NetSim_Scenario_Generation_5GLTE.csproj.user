@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>1 1 1 1 1 1 "C:\Users\MT5815\Desktop\Usability_Testing\Scenario_generation_v12.1\NetSim_Scenario_Generation_5GLTE\bin\Debug" "5G_Network" "STANDARD" "12.1" 10</StartArguments>
+  </PropertyGroup>
+</Project>
